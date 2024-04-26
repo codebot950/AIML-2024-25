@@ -1,4 +1,4 @@
-AIML LAB_1
+[AIML LAB_1](https://github.com/codebot950/AIML-2024-25/blob/main/AIML%20LAB-01%202001.ipynb)
 AIML LAB_2
 AIML LAB_3
 AIML LAB_4
