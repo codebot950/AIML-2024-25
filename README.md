@@ -6,7 +6,7 @@
 [AIML LAB_6](vhttps://github.com/codebot950/AIML-2024-25/blob/main/AIML%20LAB-06%202001.ipynb)
 [AIML LAB_7](https://github.com/codebot950/AIML-2024-25/blob/main/AIML%20LAB-07%202001.ipynb)
 [AIML LAB-8](https://github.com/codebot950/AIML-2024-25/blob/main/AIML%20LAB-08.ipynb)
-[AIML LAB-9](https://github.com/codebot950/AIML-2024-25/blob/main/AIML%20LAB-09.ipynb0
-AIML LAB-10
+[AIML LAB-9](https://github.com/codebot950/AIML-2024-25/blob/main/AIML%20LAB-09.ipynb0)
+[AIML LAB-10](https://github.com/codebot950/AIML-2024-25/blob/main/AIML%20LAB-10.ipynb)
 
 
